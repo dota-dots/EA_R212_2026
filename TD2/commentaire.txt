@@ -1,0 +1,7 @@
+Tout d'abord j'ai voulu aligner le bloc nav pour en faire un menu.
+
+ J'ai décidé d'utiliser des couleurs pastels pour l'ensemble de la page.
+
+ Pour la section "conseil", j'ai voulu faire un tableau montrant les étapes.
+
+ Ensuite j'ai voulu mieux mettre en avant les différents témoignages.
