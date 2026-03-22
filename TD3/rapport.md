@@ -1,7 +1,10 @@
 # Rapport — [TD1 / TP1 / etc.]
 
 ## Points clés
+Dans les 2 points clés, répondez à :
 
+Expliquez le modèle événement → état → rendu avec un exemple de votre choix (pas un exemple du sujet)
+Expliquez en quoi classList.toggle est la passerelle entre JS et CSS
 ### 1. [Titre du premier point]
 
 [Explication en 1-2 phrases avec vos mots.]
