@@ -1,24 +1,39 @@
-# Rapport — [TD1 / TP1 / etc.]
+Rapport — [TD3]
 
-## Points clés
-Dans les 2 points clés, répondez à :
+- Points clés
+1. [le modèle événement → état → rendu]
 
-Expliquez le modèle événement → état → rendu avec un exemple de votre choix (pas un exemple du sujet)
+Nous avons pu voir au cours de ce TD3, les notions de base pour Java Script dont le modèle " événement → état → rendu "
+Il permet de comprendre une partie du code en JS par plusieurs points :
+ - "Evenement" : Quelle(s) action(s) est provoquée(s) ? 
+ - "Etat" : Ou on en est ?
+ -"Rendu" : Qu'est ce que ca à changer apres cette action ?
+Par exemple, si nous prenons :
+
+const bouton = document.querySelector('.changer');
+const texte = document.querySelector('.message');
+
+bouton.addEventListener('click', () => {
+affichage.textContent = 'Salut';
+}); 
+
+L'evenement ici est lorsquon clique sur le bouton "click". L'Etat est lorsque ca change de texte quand l'action est exécuté. Le rendu est donc le texte changer qui est affiché "Salut"
+
+2. [classList.toggle]
+
 Expliquez en quoi classList.toggle est la passerelle entre JS et CSS
-### 1. [Titre du premier point]
+ Le JS ajoute/retire des classes, le CSS définit ce que ces classes changent visuellement.
+classList.toggle est une passerelle entre JavaScript et CSS, car il permet d’ajouter ou de retirer une classe sur un élément HTML dans lequel le CSS applique le style associé à cette classe.
 
-[Explication en 1-2 phrases avec vos mots.]
-
-### 2. [Titre du deuxième point]
+4. Modifier le contenu
 
 [Explication en 1-2 phrases avec vos mots.]
 ### 3. [Titre du troisième point]
 
 [Explication en 1-2 phrases avec vos mots.]
  
-## Utilisation de l'IA
-
-### Démarche
+ Utilisation de l'IA
+Démarche
 
 [Quel outil avez-vous utilisé ? (modèle, version, interface) Dans quel but : comprendre un concept,
 déboguer, générer du code, reformuler, autre ?]
