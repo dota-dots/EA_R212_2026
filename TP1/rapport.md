@@ -1,35 +1,17 @@
-# Rapport — [TD1 / TP1 / etc.]
+Rapport — [TP1]
 
-## Points clés
+Points clés
 
-### 1. [Titre du premier point]
+1. [Grid]
 
-[Explication en 1-2 phrases avec vos mots.]
+Similaire à Flexbox mais fonctionne de manière différente, il permet de définir des lignes et des colonnes dans une grille dans laquelle on peut mettre des elements a linterieur de ces lignes et colonnes.
 
-### 2. [Titre du deuxième point]
+2. [Variable CSS]
 
-[Explication en 1-2 phrases avec vos mots.]
-### 3. [Titre du troisième point]
+Grâce à "root" nous pouvons créer une une seule variable dans un endroit dans laquelle on pourra continuer de l'utiliser sans pour autant l'ecrire diverses fois dans tout le code.
 
-[Explication en 1-2 phrases avec vos mots.]
+3. [Media query mobile]
+
+Avec Media query mobile nous pouvons définir une taille d'écran exemple "(max-width: 600px)" qui permet en dessous de cette taille, rendre reponsive le site web, en empilant la navigation ou compacter.
  
-## Utilisation de l'IA
-
-### Démarche
-
-[Quel outil avez-vous utilisé ? (modèle, version, interface) Dans quel but : comprendre un concept,
-déboguer, générer du code, reformuler, autre ?]
-
-### Apports et limites
-
-[Ce que l'IA vous a aidé à faire. Ce qui n'a pas fonctionné ou
-que vous avez dû corriger vous-même.]
-
-### Prompts significatifs
-
-1. "[Prompt]" → [Ce que ça a donné / pourquoi ce prompt était utile]
-2. "[Prompt]" → [Ce que ça a donné]
-3. "[Prompt]" → [Ce que ça a donné]
-
-<!-- Si aucune IA n'a été utilisée, remplacez tout le bloc ci-dessus par :
-"Aucune IA utilisée lors de cette séance." -->
+Aucune IA utilisée lors de cette séance.
