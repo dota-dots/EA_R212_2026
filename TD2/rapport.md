@@ -1,35 +1,18 @@
-# Rapport — [TD1 / TP1 / etc.]
+Rapport — [TD2]
 
-## Points clés
+Points clés
 
-### 1. [Titre du premier point]
+1. [Flexbox]
 
-[Explication en 1-2 phrases avec vos mots.]
+Le Flexbox permet la mise en page. Nous pouvons placer des éléments, que ce soit en colonne, en ligne, ou inversement, par différentes notions qui s'en suivent : justify-content, align-items, flex-direction, flex-wrap, align-self, order… pratique aussi pour différents types d'écrans.
 
-### 2. [Titre du deuxième point]
+2. [Rôle du CSS]
 
-[Explication en 1-2 phrases avec vos mots.]
-### 3. [Titre du troisième point]
+Le CSS permet de styliser une page en la rendant plus agréable (couleur, police, espacement, etc.), mais aussi de la structurer notamment avec grid ou Flexbox.
 
-[Explication en 1-2 phrases avec vos mots.]
- 
-## Utilisation de l'IA
+3. [Le Layout]
 
-### Démarche
+C'est la composition de la page avec les espacements entre chaque contenu, texte, image, etc. Ça correspond à l'ensemble de dispositions faites pour la mise en page.
 
-[Quel outil avez-vous utilisé ? (modèle, version, interface) Dans quel but : comprendre un concept,
-déboguer, générer du code, reformuler, autre ?]
 
-### Apports et limites
-
-[Ce que l'IA vous a aidé à faire. Ce qui n'a pas fonctionné ou
-que vous avez dû corriger vous-même.]
-
-### Prompts significatifs
-
-1. "[Prompt]" → [Ce que ça a donné / pourquoi ce prompt était utile]
-2. "[Prompt]" → [Ce que ça a donné]
-3. "[Prompt]" → [Ce que ça a donné]
-
-<!-- Si aucune IA n'a été utilisée, remplacez tout le bloc ci-dessus par :
-"Aucune IA utilisée lors de cette séance." -->
+Aucune IA utilisée lors de cette séance.
