@@ -1,17 +1,18 @@
-# Rapport — [TD1 / TP1 / etc.]
+Rapport — [TD1]
 
-## Points clés
+Points clés
 
-### 1. [Titre du premier point]
+1. [Découpage en blocs]
 
-[Explication en 1-2 phrases avec vos mots.]
+Le découpage des blocs est tres important pour l'analyse d'un site, on peut comprendre de quoi il est composé : header, section, hero, article, footer etc.. et quoi il comporte à l'intérieur. EXP : le header comporte un menu déroulant, bouton CTA etc..
 
-### 2. [Titre du deuxième point]
+2. [Bloc Div]
 
-[Explication en 1-2 phrases avec vos mots.]
-### 3. [Titre du troisième point]
+Le bloc div est contrairement aux autres élements (header, bouton ) qui sont déjà définit, lui est non sémantique. Il permet juste d'organiser la page.
 
-[Explication en 1-2 phrases avec vos mots.]
+3. [Le fonctionnement de l'HTML, CSS et JS]
+
+L'HTML permet de structurer le d'un site web notamment pour mettre l'Ordre des blocs dans la page ou encore le titre. Pour le CSS c'est plus un principe visuel et esthétique comme mettre de la couleur au bouton. Enfin, le JavaScript permet de créer une intéraction avec l'utilisateur et le site web.
  
 ## Utilisation de l'IA
 
