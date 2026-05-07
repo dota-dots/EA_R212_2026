@@ -1,17 +1,15 @@
-Rapport — [TP4]
+Rapport — [TP4 ]
 
-## 
-1. [Titre du premier point]
+Points clés
 
-[Explication en 1-2 phrases avec vos mots.]
+1. [JSON]
 
-2. [Titre du deuxième point]
+JSON de l’abréviation : JavaScript Object Notation. C'est un format d'échange de données.  Il est basé sur le langage standard de JavaScript.
 
-[Explication en 1-2 phrases avec vos mots.]
-3. [Titre du troisième point]
+2. [Fetch]
 
-[Explication en 1-2 phrases avec vos mots.]
- 
- Utilisation de l'IA
+Il permet de chercher des données avec JSON. Il assemble une interaction utilisateur via une API publique distante
 
-Aucune IA utilisée lors de cette séance.
+3. [Debounce]
+
+ Il  limite le nombres de requêtes en tout cas sur un délai court. il est beaucoup utiliser que ca soit dans le menu de recherche et dans les intéractions en générales
