@@ -5,11 +5,12 @@ Rapport — [TP5]
 La classList permet d'acceder et de manipuler le CSS et le HTML. Il permet d'ajouter, de supprimer ou de modifier des classes, sans toucher à une propriété de classe spécifique
 
 2. [aria-expanded]
-Cet attribut permet de controler un element intéractif.
-[Explication en 1-2 phrases avec vos mots.]
-3. [Titre du troisième point]
+   
+Cet attribut d'accessibilité permet de contrôler un élément interactif et d'indiquer si cet élément est ouvert ou fermé. On le retrouve notamment utilisé sur les menus déroulants, accordéons, ou les questions dépliables.
 
-[Explication en 1-2 phrases avec vos mots.]
+3. [async function]
+
+Utilisez pour les API ou les programmes qui demandent du temps à s’exécuter. C’est une fonction qui permet d’exécuter des opérations asynchrones sans bloquer le reste du programme.
  
  Utilisation de l'IA
 
