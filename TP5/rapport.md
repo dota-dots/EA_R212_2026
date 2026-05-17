@@ -14,4 +14,26 @@ Utilisez pour les API ou les programmes qui demandent du temps à s’exécuter.
  
  Utilisation de l'IA
 
-Aucune IA utilisée lors de cette séance.
+1. J'ai utilisé l'IA de Visual Studio Code car je n'avais pas compris le problème : element.style.display = 'none';      // style inline au lieu de classList, il m'a donné :
+"  document.getElementById("modale").classList.add("open");
+      }
+
+   function fermerModale() {
+        document.getElementById("modale").classList.remove("open");
+      }"
+
+ CSS : " .modale-overlay.open {
+            display: block;
+          }"
+Tout d'abord cela permet de séparer le JSS et le CSS qui étaient assemblés ensemble. De plus, cela a supprimé "none" car celui-ci écrase les autres styles, contrairement à "open" qui est plus facile à manipuler.
+
+2. Mon focus sur les éléments de mon site ne se voit pas et je ne savais pas comment faire en sorte qu'on puisse le voir, donc j'ai demandé à l'IA de Visual Code. Il a tout d'abord remplacé tous les "span" par "button", logique car c'est une balise sémantique plus efficace et qui ne requiert pas d'attribut tabindex. Le résultat permet de voir l'élément sélectionné avec le tab.
+
+"button:focus,
+          .carte-bouton:focus,
+          .modale-fermer:focus,
+          .filtres-container button:focus {
+            outline: 3px solid var(--color-secondary);
+            outline-offset: 3px;
+          }
+"
